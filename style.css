@@ -432,11 +432,11 @@ tr:hover{
 }
 .vid-container{
 position: relative;
-padding-bottom: 56.25%;
+padding-bottom: 177.78%;
 height: 0;
 overflow: hidden;
 width:100%;
-
+align-text:center;
 }
 
 .vid-container video{
