@@ -52,7 +52,7 @@ header {
     color: white;
     padding: 1rem 0;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    position: sticky;
+    position: absolute;
     top: 0;
     z-index: 100;
   animation: gradientShift 5s ease infinite;
