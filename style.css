@@ -55,7 +55,7 @@ header {
     top: 0;
     z-index: 100;
   animation: gradientShift 5s ease infinite;
-    max-width:"100%"
+    max-width:"100%";
 }
 
 .header-container {
@@ -429,11 +429,11 @@ tr:hover{
     background-color: none;
      transform: translateY(-5px);
 }
-
 .vid-container{
 position: relative;
 padding-bottom: 56.25%;
 height: 0;overflow: hidden;
+    max-width:100%;
 
 }
 .vid-section{
@@ -802,6 +802,7 @@ footer {
     background:radial-gradient(circle, #9c9687,#88c0d4);
     color: white;
     padding: 3rem 0 1rem;
+    max-width:100%;
 }
 
 .footer-container {
