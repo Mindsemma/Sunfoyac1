@@ -19,6 +19,7 @@ body {
     line-height: 1.6;
     color: var(--text-color);
     background-color: #f9f9f9;
+    width:100%;
 }
 p{
     align-items: center;
